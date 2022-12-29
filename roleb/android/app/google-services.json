@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "436284728447",
+    "project_id": "roleb-fb854",
+    "storage_bucket": "roleb-fb854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436284728447:android:2bac3c3e16b1fa0a2f8b4a",
+        "android_client_info": {
+          "package_name": "com.example.roleb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436284728447-fl8r3fqa7rqtsmtoqo60ng6cdt60mod9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwtq07lXszVPrSZaamtJBIQUzaXQucxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436284728447-fl8r3fqa7rqtsmtoqo60ng6cdt60mod9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436284728447-33li5a6grork531rc36qpthqbe0hollp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roleb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
